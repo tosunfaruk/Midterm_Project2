@@ -1,5 +1,7 @@
 # Secure Backend System - Implementation Report
 
+Team Members: Kerim Nefes 210208911 / Ahmet Can Sayımlar 210208037
+
 ## 1. Why Salting is Necessary to Prevent "Rainbow Table" Attacks
 
 A **Rainbow Table** is a massive, precomputed dictionary of plaintext passwords and their corresponding hash values. If a database stores passwords only as simple hashes (e.g., using pure MD5 or SHA-256), an attacker who gains access to the database can simply look up the stolen hashes in their Rainbow Table to instantly reveal the original plaintext passwords.
