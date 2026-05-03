@@ -32,4 +32,3 @@ This project simulates a secure backend environment utilizing JSON Web Tokens (J
    ```bash
    uvicorn main:app --reload
    ```
-5. Navigate to `http://127.0.0.1:8000/docs` in your browser to test the endpoints interactively via Swagger UI.
