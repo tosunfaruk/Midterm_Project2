@@ -1,0 +1,9 @@
+2026-05-03 21:42:59,607 - Unauthorized (403) attempt on action: DELETE /user/1
+2026-05-03 21:46:27,365 - Unauthorized (403) attempt on action: DELETE /user/1
+2026-05-03 21:46:32,613 - Unauthorized (403) attempt on action: DELETE /user/1
+2026-05-03 21:47:39,702 - Unauthorized (403) attempt on action: DELETE /user/0
+2026-05-03 21:47:40,741 - Unauthorized (403) attempt on action: DELETE /user/0
+2026-05-03 21:47:41,285 - Unauthorized (403) attempt on action: DELETE /user/0
+2026-05-03 21:47:41,701 - Unauthorized (403) attempt on action: DELETE /user/0
+2026-05-03 22:05:28,433 - Unauthorized (403) attempt on action: DELETE /user/1
+2026-05-03 22:13:02,039 - Unauthorized (403) attempt on action: DELETE /user/1
