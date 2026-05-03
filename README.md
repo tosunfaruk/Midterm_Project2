@@ -1,3 +1,4 @@
+Team Members: Kerim Nefes 210208911 / Ahmet Can Sayımlar 210208037
 # Secure Auth API
 
 A secure Python-based backend system demonstrating robust authentication flows and Role-Based Access Control (RBAC).
